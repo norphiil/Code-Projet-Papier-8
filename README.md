@@ -1,7 +1,6 @@
 # Documentation du Code Python: Implémentation d'un Algorithme de Beamforming pour l'Imagerie Ultrasonore
 
 **Auteurs :** CADET Florent, DORFNER François
-**Date :** [Date actuelle]
 
 ## Résumé
 
